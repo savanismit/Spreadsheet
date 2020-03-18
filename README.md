@@ -1,4 +1,4 @@
 # Spreadsheet
-##pre requirements
--PyQt5
--Python
+## Pre requirements
+  - PyQt5
+  - Python
